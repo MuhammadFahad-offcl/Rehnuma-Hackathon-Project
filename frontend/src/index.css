@@ -1,0 +1,74 @@
+@import "tailwindcss";
+@import "@fontsource-variable/plus-jakarta-sans";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --color-ink: #1f1b2e;
+  --color-muted: #66627a;
+  --color-line: #e6e2f2;
+  --color-wash: #f7f5fd;
+  --color-brand: #5b34da;
+  --color-brand-dark: #4827b8;
+  --color-brand-soft: #eee9fd;
+
+  --color-safe: #166534;
+  --color-safe-soft: #e5f6ea;
+  --color-target: #1d4ed8;
+  --color-target-soft: #e6eefd;
+  --color-reach: #b45309;
+  --color-reach-soft: #fdf1dc;
+  --color-unlikely: #b91c1c;
+  --color-unlikely-soft: #fce8e8;
+  --color-quiet: #55526a;
+  --color-quiet-soft: #f0eff4;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  background: #fff;
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Numbers are the heroes: keep columns of figures aligned. */
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--color-brand) 55%, white);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes pulse-soft {
+  50% {
+    opacity: 0.45;
+  }
+}
+.skeleton {
+  animation: pulse-soft 1.4s ease-in-out infinite;
+  background: var(--color-quiet-soft);
+  border-radius: 0.75rem;
+}
