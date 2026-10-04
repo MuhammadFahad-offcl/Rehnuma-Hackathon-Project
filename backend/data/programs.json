@@ -1,0 +1,198 @@
+[
+  {
+    "id": "demo-lhr-bscs",
+    "universityId": "demo-lhr",
+    "name": "BS Computer Science",
+    "eligibleGroups": [
+      "ics",
+      "pre-engineering"
+    ],
+    "minInterPercent": {
+      "value": 60,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "testName": "Demo Entry Test",
+    "weights": {
+      "value": {
+        "matric": 10,
+        "inter": 40,
+        "test": 50
+      },
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "closingMerit": {
+      "value": 78.0,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "closingMeritCycle": "Fall 2026",
+    "semesters": 8,
+    "admissionFee": {
+      "value": 50000,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "feePerSemester": {
+      "value": 150000,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "hostelPerYear": null,
+    "deadlines": [
+      {
+        "label": "Application deadline",
+        "cycle": "Fall 2027",
+        "date": {
+          "value": "2027-07-15",
+          "sourceName": "DEMO FIXTURE source",
+          "sourceUrl": "https://example.com/demo-fixture",
+          "verifiedOn": "2026-10-03",
+          "confidence": "unofficial",
+          "note": "FIXTURE: fake demo value, replace with official data"
+        }
+      }
+    ]
+  },
+  {
+    "id": "demo-isb-bscs",
+    "universityId": "demo-isb",
+    "name": "BS Computer Science",
+    "eligibleGroups": [
+      "ics",
+      "pre-engineering"
+    ],
+    "minInterPercent": {
+      "value": 60,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "testName": "Demo Entry Test",
+    "weights": {
+      "value": {
+        "matric": 10,
+        "inter": 40,
+        "test": 50
+      },
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "closingMerit": {
+      "value": 70.0,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "closingMeritCycle": "Fall 2026",
+    "semesters": 8,
+    "admissionFee": {
+      "value": 20000,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "feePerSemester": {
+      "value": 60000,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "hostelPerYear": {
+      "value": 90000,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "deadlines": [
+      {
+        "label": "Application deadline",
+        "cycle": "Fall 2027",
+        "date": {
+          "value": "2027-07-15",
+          "sourceName": "DEMO FIXTURE source",
+          "sourceUrl": "https://example.com/demo-fixture",
+          "verifiedOn": "2026-10-03",
+          "confidence": "unofficial",
+          "note": "FIXTURE: fake demo value, replace with official data"
+        }
+      }
+    ]
+  },
+  {
+    "id": "demo-khi-bscs",
+    "universityId": "demo-khi",
+    "name": "BS Computer Science",
+    "eligibleGroups": [
+      "ics",
+      "pre-engineering",
+      "fa"
+    ],
+    "minInterPercent": null,
+    "testName": "Demo Entry Test",
+    "weights": null,
+    "closingMerit": null,
+    "closingMeritCycle": null,
+    "semesters": 8,
+    "admissionFee": {
+      "value": 40000,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "feePerSemester": {
+      "value": 120000,
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "hostelPerYear": null,
+    "deadlines": [
+      {
+        "label": "Application deadline",
+        "cycle": "Fall 2027",
+        "date": {
+          "value": "2027-07-15",
+          "sourceName": "DEMO FIXTURE source",
+          "sourceUrl": "https://example.com/demo-fixture",
+          "verifiedOn": "2026-10-03",
+          "confidence": "unofficial",
+          "note": "FIXTURE: fake demo value, replace with official data"
+        }
+      }
+    ]
+  }
+]

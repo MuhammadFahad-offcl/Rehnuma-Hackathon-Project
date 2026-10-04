@@ -1,0 +1,40 @@
+[
+  {
+    "id": "demo-merit",
+    "name": "Demo Merit Scholarship (FIXTURE)",
+    "provider": "Demo",
+    "universityIds": [
+      "demo-lhr"
+    ],
+    "type": "merit",
+    "minInterPercent": 85,
+    "maxFamilyIncomeMonthly": null,
+    "summary": {
+      "value": "Demo: students with high Inter marks get a tuition discount.",
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "applyUrl": "https://example.com/apply"
+  },
+  {
+    "id": "demo-need",
+    "name": "Demo Need Scholarship (FIXTURE)",
+    "provider": "Demo",
+    "universityIds": "all",
+    "type": "need",
+    "minInterPercent": null,
+    "maxFamilyIncomeMonthly": 80000,
+    "summary": {
+      "value": "Demo: students with low family income may receive aid.",
+      "sourceName": "DEMO FIXTURE source",
+      "sourceUrl": "https://example.com/demo-fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial",
+      "note": "FIXTURE: fake demo value, replace with official data"
+    },
+    "applyUrl": "https://example.com/apply"
+  }
+]

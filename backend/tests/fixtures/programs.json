@@ -1,0 +1,176 @@
+[
+  {
+    "id": "fx-lhr-bscs",
+    "universityId": "fx-lhr",
+    "name": "BS Computer Science",
+    "eligibleGroups": [
+      "pre-engineering",
+      "ics"
+    ],
+    "minInterPercent": {
+      "value": 60,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "testName": "Fixture Test",
+    "weights": {
+      "value": {
+        "matric": 10,
+        "inter": 40,
+        "test": 50
+      },
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "closingMerit": {
+      "value": 78,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "closingMeritCycle": "Fall 2026",
+    "semesters": 8,
+    "admissionFee": {
+      "value": 50000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "feePerSemester": {
+      "value": 150000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "hostelPerYear": {
+      "value": 120000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "deadlines": [
+      {
+        "label": "Application deadline",
+        "cycle": "Fall 2026",
+        "date": {
+          "value": "2026-07-15",
+          "sourceName": "Fixture source - replace with official source",
+          "sourceUrl": "https://example.com/fixture",
+          "verifiedOn": "2026-10-03",
+          "confidence": "unofficial"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fx-isb-bscs",
+    "universityId": "fx-isb",
+    "name": "BS Computer Science",
+    "eligibleGroups": [
+      "pre-engineering",
+      "ics",
+      "pre-medical"
+    ],
+    "minInterPercent": {
+      "value": 60,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "testName": "Fixture Test",
+    "weights": {
+      "value": {
+        "matric": 20,
+        "inter": 50,
+        "test": 30
+      },
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "closingMerit": {
+      "value": 80,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "closingMeritCycle": "Fall 2026",
+    "semesters": 8,
+    "admissionFee": {
+      "value": 30000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "feePerSemester": {
+      "value": 100000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "hostelPerYear": {
+      "value": 100000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "deadlines": [
+      {
+        "label": "Application deadline",
+        "cycle": "Fall 2026",
+        "date": {
+          "value": "2026-08-01",
+          "sourceName": "Fixture source - replace with official source",
+          "sourceUrl": "https://example.com/fixture",
+          "verifiedOn": "2026-10-03",
+          "confidence": "unofficial"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fx-mul-bscs",
+    "universityId": "fx-mul",
+    "name": "BS Computer Science",
+    "eligibleGroups": [
+      "pre-engineering",
+      "ics"
+    ],
+    "minInterPercent": null,
+    "testName": "Fixture Test",
+    "weights": null,
+    "closingMerit": null,
+    "closingMeritCycle": null,
+    "semesters": 8,
+    "admissionFee": {
+      "value": 20000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "feePerSemester": {
+      "value": 70000,
+      "sourceName": "Fixture source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "hostelPerYear": null,
+    "deadlines": []
+  }
+]

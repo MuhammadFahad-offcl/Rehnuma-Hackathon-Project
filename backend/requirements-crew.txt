@@ -1,0 +1,3 @@
+# Optional: only needed for MENTOR_ENGINE=crewai (Explainer -> Fact-Checker crew).
+-r requirements.txt
+crewai>=0.100,<2

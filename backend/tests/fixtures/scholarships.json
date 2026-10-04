@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fx-need",
+    "name": "Fixture Need Scholarship",
+    "provider": "Fixture Provider",
+    "universityIds": "all",
+    "type": "need",
+    "minInterPercent": 60,
+    "maxFamilyIncomeMonthly": 80000,
+    "summary": {
+      "value": "Demo scholarship for students under the stated income threshold.",
+      "sourceName": "Fixture scholarship source - replace with official source",
+      "sourceUrl": "https://example.com/fixture",
+      "verifiedOn": "2026-10-03",
+      "confidence": "unofficial"
+    },
+    "applyUrl": "https://example.com/fixture"
+  }
+]

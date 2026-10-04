@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fx-lhr",
+    "name": "Fixture University Lahore",
+    "shortName": "FUL",
+    "city": "Lahore",
+    "sector": "private",
+    "website": "https://example.com"
+  },
+  {
+    "id": "fx-isb",
+    "name": "Fixture University Islamabad",
+    "shortName": "FUI",
+    "city": "Islamabad",
+    "sector": "public",
+    "website": "https://example.com"
+  },
+  {
+    "id": "fx-mul",
+    "name": "Fixture University Multan",
+    "shortName": "FUM",
+    "city": "Multan",
+    "sector": "public",
+    "website": "https://example.com"
+  }
+]

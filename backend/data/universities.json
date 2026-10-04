@@ -1,0 +1,26 @@
+[
+  {
+    "id": "demo-lhr",
+    "name": "Demo University Lahore (FIXTURE)",
+    "shortName": "DUL",
+    "city": "Lahore",
+    "sector": "private",
+    "website": "https://example.com"
+  },
+  {
+    "id": "demo-isb",
+    "name": "Demo University Islamabad (FIXTURE)",
+    "shortName": "DUI",
+    "city": "Islamabad",
+    "sector": "public",
+    "website": "https://example.com"
+  },
+  {
+    "id": "demo-khi",
+    "name": "Demo University Karachi (FIXTURE)",
+    "shortName": "DUK",
+    "city": "Karachi",
+    "sector": "private",
+    "website": "https://example.com"
+  }
+]

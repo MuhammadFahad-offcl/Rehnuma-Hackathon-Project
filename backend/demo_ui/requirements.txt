@@ -1,0 +1,4 @@
+# Streamlit backup UI. It imports the engine and mentor straight from the backend folder.
+streamlit>=1.50,<2
+httpx>=0.27,<1
+python-dotenv>=1.0,<2
