@@ -1,0 +1,26 @@
+# --- Python (backend/)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# --- secrets: never commit keys
+.env
+.env.local
+.env.*.local
+backend/.env.*
+!backend/.env.example
+!frontend/.env.example
+backend/demo_ui/.streamlit/secrets.toml
+
+# --- Node (frontend/)
+node_modules/
+dist/
+
+# --- tools / editors / OS
+.vercel/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
